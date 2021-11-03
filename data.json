@@ -1,11 +1,15 @@
 {
   "children": [
     {
-      "name": "boss1-one-one",
+      "name": "boss1-one-two",
       "children": [
          {
           "name": "mister_a_a",
           "colname": "level3_3"
+        },
+        {
+          "name": "mister_a_b",
+          "colname": "level3_4"
         },
         {
           "name": "mister_a",
